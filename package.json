@@ -1,0 +1,13 @@
+{
+  "name": "isc-muj",
+  "version": "1.0.0",
+  "description": "ISC — International Student Cell, Manipal University Jaipur",
+  "main": "serve.cjs",
+  "scripts": {
+    "start": "node serve.cjs",
+    "dev": "node serve.cjs"
+  },
+  "keywords": ["isc", "muj", "international-student-cell"],
+  "author": "",
+  "license": "ISC"
+}
